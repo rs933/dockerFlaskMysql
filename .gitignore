@@ -1,4 +1,4 @@
-# project exclude path
+# project exclude path to exclude unnecessary files
 
 /venv/
 .idea
