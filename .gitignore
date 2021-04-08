@@ -1,0 +1,4 @@
+# project exclude path
+
+/venv/
+.idea
