@@ -1,3 +1,5 @@
+--  creating database with raw data
+
 CREATE DATABASE citiesData;
 use citiesData;
 
