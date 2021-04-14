@@ -3,7 +3,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 #data table screenshot picture
 #Cities.png 
-# Citites.png show the data table
+# cities.png show the data table
 
 #Postman screenshot
 #postman.png, Checked the mysql data from postman
